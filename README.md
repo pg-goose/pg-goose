@@ -12,8 +12,6 @@
 
 I’m a Software Engineering student who dove head-first into real-world development when Piveu invited me to join mid-course. Since then, I’ve helped evolve an on-premise IoT platform for operating rooms. I work as a Full-stack Engineer at **Piveu Medtech Solutions**, contributing across the stack: frontend, backend, hardware, firmware, architecture, and CI/CD. The project is private, but I’m happy to share a contact reference with interested employers. As we enter the handoff phase, I’m finalizing deliverables, documenting systems, and supporting knowledge transfer to ensure a smooth transition.
 
-I’m now exploring my next step: moving into **embedded programming**.
-
 ## 🛠️ Recent skills
 
 - **Go**
