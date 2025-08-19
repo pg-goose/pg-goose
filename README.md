@@ -1,23 +1,30 @@
-# 👋 Hi, I'm pg-goose
+# 👋 Hey, call me _pg-goose_
 
-## About Me
-Currently, I'm a Software Engineering student who dove head-first into real-world development when Piveu offered me the chance to join their project mid course. Since then, I've helped iterate our solution into an on-site IoT platform specialized for operating rooms.
+## Me
 
-Therefore, I'm a Fullstack Engineer at **Piveu Medtech Solutions**, where I develop every part of our core product. From frontend and backend to hardware, firmware, architecture, and even CI/CD pipelines. Though our project is private, I'm happy to provide a contact reference for interested employers*.
+- I believe in free/libre software and I’m keen to start contributing, first issues coming soon.
+- Early stage and exploring my lane. Embedded programming 🤖 is what keeps me curious.
+- I fell for Go’s simplicity and minimalism. Now I’m a fan of the language, its philosophy, and ecosystem.
+- Thanks to university projects and hackathons I’ve touched many stacks, and I learn deeply and quickly when needed.
+- Motorbike rider and indoor climbing enjoyer.
 
-As the project enters its handoff phase, I’m finalizing deliverables, documenting systems, and supporting knowledge transfer to ensure a smooth transition. With this milestone, I’m actively exploring my next step, a career change to embeeded programing. Ideally, I’m seeking an internship arranged under an **internship agreement** with my university, where I can contribute immediately while aligning the role with my academic program. If that sounds like a fit, I’d love to connect.
+## 📚 My History
 
+I’m a Software Engineering student who dove head-first into real-world development when Piveu invited me to join mid-course. Since then, I’ve helped evolve an on-premise IoT platform for operating rooms. I work as a Full-stack Engineer at **Piveu Medtech Solutions**, contributing across the stack: frontend, backend, hardware, firmware, architecture, and CI/CD. The project is private, but I’m happy to share a contact reference with interested employers. As we enter the handoff phase, I’m finalizing deliverables, documenting systems, and supporting knowledge transfer to ensure a smooth transition.
 
+I’m now exploring my next step: moving into **embedded programming**.
 
-## 🛠️ Top Technical Skills
+## 🛠️ Recent skills
+
+- **Go**
 - **Docker**
-- **Golang**
 - **Python**
 - **SQL**
 - **SvelteKit** (TypeScript, CSS, HTML)
+- CI/CD, firmware basics, and more
 
-> These are just my most fresh skills! But I've been familiarized on a lot of fronts thanks to uni projects and Hackathons.
+> Curious about my work at Piveu? Reach out and I can provide a reference contact.
 
----
+## 🪿 Now
 
-> If you're interested in learning more about my work at Piveu, feel free to reach out for a reference!
+Curating my portfolio and scraping the 🦀 rust off my C while I steer toward low-level embedded work. I’ll be spending the next few months on hands-on C and dipping my toes on embedded programming.
